@@ -1,0 +1,5 @@
+# Ajoutez vos dépendances Python ici
+# Exemple :
+# requests==2.31.0
+pynput
+pyinstaller
